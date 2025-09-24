@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ]
+  ],
+  "legacy_uid": "a6893423-caa7-aa5e-41d6-340372a25b4a",
+  "instructors": {
+    "content": [
+      "e6d16e5a-44eb-206c-ff2d-2b0dd32a2714"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d493dfcf-eb2e-f04e-8a43-94b03742cd2a",
+    "website": "14-475-environmental-economics-and-government-responses-to-market-failure-spring-2005"
+  },
+  "course_title": "Environmental Economics and Government Responses to Market Failure",
+  "course_description": "This course explores the theory behind and evidence on regulatory, tax, and other government responses to problems of market failure. Special emphasis is given to developing and implementing tools to evaluate environmental policies. Other topics include cost-benefit analysis, measurement of the benefits of non-market goods and costs of regulations, and the evaluation of the impact of regulations in areas such as financial markets, workplace health and safety, consumer product safety, and other contexts.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.475",
+  "course_image_thumbnail": {
+    "content": "24fb3a7a-5396-7a72-6472-4defcd274fcd",
+    "website": "14-475-environmental-economics-and-government-responses-to-market-failure-spring-2005"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments"
+  ],
+  "site_uid": "ad210983-5c24-415a-8ba5-e5e2e5abe3b6",
+  "site_short_id": "14.475-spring-2005",
+  "site_url_path": "courses/14-475-environmental-economics-and-government-responses-to-market-failure-spring-2005",
+  "title": "Course Metadata"
+}
