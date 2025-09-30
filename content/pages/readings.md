@@ -49,7 +49,7 @@ Externalities, Pigovian Taxes, and the Coasian Solution
 
 Coase, Ronald H. "The Problem of Social Cost." *The Journal of Law and Economics* 3 (October 1960): 1-44.
 
-{{% resource_link "4483018b-1323-45ba-ad08-df38fe8a2a81" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Laffont, Jean-Jacques. Chapter 1 in *Fundamentals of Public Economics*. Cambridge, MA: MIT Press, 1994. ISBN: 9780262121279.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262121279) Laffont, Jean-Jacques. Chapter 1 in *Fundamentals of Public Economics*. Cambridge, MA: MIT Press, 1994. ISBN: 9780262121279.
 
 *Optional Readings*
 
@@ -65,7 +65,7 @@ Defining Welfare Changes and Cost-Benefit Analysis
 
 *Required Readings*
 
-{{% resource_link "4483018b-1323-45ba-ad08-df38fe8a2a81" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Laffont, Jean-Jacques. Chapter 6 in *Fundamentals of Public Economics*. Cambridge, MA: MIT Press, 1994. ISBN: 9780262121279.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262121279) Laffont, Jean-Jacques. Chapter 6 in *Fundamentals of Public Economics*. Cambridge, MA: MIT Press, 1994. ISBN: 9780262121279.
 
 *Optional Readings*
 
@@ -109,7 +109,7 @@ Valuation of Nonmarket Goods with an Emphasis on Environmental Goods: Hedonic Me
 
 *Required Readings*
 
-Chay, Kenneth, and Michael Greenstone. "{{% resource_link "8a6b8967-0b61-437a-a8f4-8029b4a9e574" "Does Air Quality Matter? Evidence from the Housing Market" %}}." *Journal of Political Economy* 113, no. 2 (April 2005).
+Chay, Kenneth, and Michael Greenstone. "[Does Air Quality Matter? Evidence from the Housing Market](http://econ-www.mit.edu/faculty/index.htm?prof_id=mgreenst&type=paper)." *Journal of Political Economy* 113, no. 2 (April 2005).
 
 Cook, Thomas D., and Donald T. Campbell. *Quasi-Experimentation: Design and Analysis Issues for Field Settings*. Boston, MA: Houghton Mifflin, 1979, pp. 137-146. ISBN: 0395307902.    
 (This provides a brief review of regression discontinuity designs.)
@@ -118,7 +118,7 @@ Cook, Thomas D., and Donald T. Campbell. *Quasi-Experimentation: Design and Anal
 
 Black, Sandra. "Do Better Schools Matter? Parental Valuation of Elementary Education." *Quarterly Journal of Economics* 114, no. 2 (1999): 577-99.
 
-Greenstone, Michael , and Justin Gallagher. "{{% resource_link "8a6b8967-0b61-437a-a8f4-8029b4a9e574" "Does Hazardous Waste Matter? Evidence from the Housing Market and the Superfund Program" %}}." Mimeograph. 2005.
+Greenstone, Michael , and Justin Gallagher. "[Does Hazardous Waste Matter? Evidence from the Housing Market and the Superfund Program](http://econ-www.mit.edu/faculty/index.htm?prof_id=mgreenst&type=paper)." Mimeograph. 2005.
 
 Smith, V. Kerry, and Ju-Chin Huang. "Can Markets Value Air Quality? A Meta-Analysis of Hedonic Property Value Models." *Journal of Political Economy* 103 (1995): 209-27.
 
@@ -132,7 +132,7 @@ Valuation of Nonmarket Goods with an Emphasis on Environmental Goods: Hedonic Me
 
 Thaler, Richard, and Sherwin Rosen. "The Value of Saving a Life: Evidence from the Labor Market." In *Household Production and Consumption*. Edited by Nestor E. Terleckyj. Cambridge, MA: NBER, 1976, pp. 265-298. ISBN: 0870145150.
 
-Ashenfelter, Orley, and Michael Greenstone. "{{% resource_link "8a6b8967-0b61-437a-a8f4-8029b4a9e574" "Using Mandated Speed Limits to Measure the Value of a Statistical Life" %}}." *Journal of Political Economy* 112, no. 1, pt. 2 (2004).
+Ashenfelter, Orley, and Michael Greenstone. "[Using Mandated Speed Limits to Measure the Value of a Statistical Life](http://econ-www.mit.edu/faculty/index.htm?prof_id=mgreenst&type=paper)." *Journal of Political Economy* 112, no. 1, pt. 2 (2004).
 
 Black, Dan A., and Kneisner, Thomas J. "*On the Measurement of Job Risk in Hedonic Wage Models*." *Journal of Risk and Uncertainty* 27, no. 3 (December 2003): 205-20.
 
@@ -164,13 +164,13 @@ Valuation of Nonmarket Goods with an Emphasis on Environmental Goods: The Health
 
 *Required Readings*
 
-Chay, Kenneth, and Michael Greenstone. "{{% resource_link "8a6b8967-0b61-437a-a8f4-8029b4a9e574" "The Impact of Air Pollution on Infant Mortality: Evidence from Geographic Variation in Pollution Shocks Induced by a Recession" %}}." *Quarterly Journal of Economics* 118, no. 3 (2003).
+Chay, Kenneth, and Michael Greenstone. "[The Impact of Air Pollution on Infant Mortality: Evidence from Geographic Variation in Pollution Shocks Induced by a Recession](http://econ-www.mit.edu/faculty/index.htm?prof_id=mgreenst&type=paper)." *Quarterly Journal of Economics* 118, no. 3 (2003).
 
 ———. "Air Quality, Infant Mortality, and the Clean Air Act of 1970." NBER Working Paper #10053, 2003.
 
 Zeger, S. L., F. Dominici, and J. Samet. "Harvesting-Resistant Estimates of Air Pollution Effects on Mortality." *Epidemiology* 10, no. 2 (March 1999): 171-5.
 
-Chay, Kenneth, Carlos Dobkin, and Michael Greenstone. "{{% resource_link "8a6b8967-0b61-437a-a8f4-8029b4a9e574" "The Clean Air Act of 1970 and Adult Mortality" %}}." *Journal of Risk and Uncertainty* 27, no. 3 (2003): 279-300. (With Kenneth Chay and Carlos Dobkin).
+Chay, Kenneth, Carlos Dobkin, and Michael Greenstone. "[The Clean Air Act of 1970 and Adult Mortality](http://econ-www.mit.edu/faculty/index.htm?prof_id=mgreenst&type=paper)." *Journal of Risk and Uncertainty* 27, no. 3 (2003): 279-300. (With Kenneth Chay and Carlos Dobkin).
 
 Pope, C. A., R. T. Burnett, M. J. Thun, E. E. Calle, D. Krewski, K. Ito, and G. D. Thurston. "Lung cancer, cardiopulmonary mortality, and long-term exposure to fine particulate air pollution." *Journal of the American Medical Association* 287, no. 9 (2002): 1132-41.
 
@@ -280,7 +280,7 @@ Costs of Environmental Regulations: Indirect and Direct Measurement, Double Divi
 
 *Indirect Measurement of the Costs -* *Required Readings*
 
-Greenstone, Michael. "{{% resource_link "8a6b8967-0b61-437a-a8f4-8029b4a9e574" "The Impacts of Environmental Regulations on Industrial Activity: Evidence from the 1970 and 1977 Clean Air Act Amendments and the Census of Manufacturers" %}}." *Journal of Political Economy* 110, no. 6 (2002).
+Greenstone, Michael. "[The Impacts of Environmental Regulations on Industrial Activity: Evidence from the 1970 and 1977 Clean Air Act Amendments and the Census of Manufacturers](http://econ-www.mit.edu/faculty/index.htm?prof_id=mgreenst&type=paper)." *Journal of Political Economy* 110, no. 6 (2002).
 
 *Indirect Measurement of the Costs - Optional Readings*
 
@@ -310,7 +310,7 @@ Policy Application: Climate Change
 
 *Required Readings*
 
-Deschenes, Olivier, and Michael Greenstone. "{{% resource_link "8a6b8967-0b61-437a-a8f4-8029b4a9e574" "The Economic Impacts of Climate Change: Evidence from Agricultural Output and Random Fluctuations in Weather" %}}." 2004.
+Deschenes, Olivier, and Michael Greenstone. "[The Economic Impacts of Climate Change: Evidence from Agricultural Output and Random Fluctuations in Weather](http://econ-www.mit.edu/faculty/index.htm?prof_id=mgreenst&type=paper)." 2004.
 
 Schlenker, Wolfram, W. Michael Hanemann, and Anthony C. Fisher. "Will U.S. Agriculture Really Benefit from Global Warming? Accounting for Irrigation in the Hedonic Approach." *American Economic Review,* forthcoming (2005).
 
@@ -352,7 +352,7 @@ Regulation of Financial Markets
 
 *Required Readings*
 
-Greenstone, Michael, Paul Oyer, and Annette Vissing-Jorgensen. "{{% resource_link "8a6b8967-0b61-437a-a8f4-8029b4a9e574" "Mandated Disclosure, Stock Returns, and the 1964 Securities Act" %}}." *MIT Department of Economics Working Paper,* no. 04-33 (2004).
+Greenstone, Michael, Paul Oyer, and Annette Vissing-Jorgensen. "[Mandated Disclosure, Stock Returns, and the 1964 Securities Act](http://econ-www.mit.edu/faculty/index.htm?prof_id=mgreenst&type=paper)." *MIT Department of Economics Working Paper,* no. 04-33 (2004).
 
 Rajan, Raghuram G., and Luigi Zingales. "Financial Dependence and Growth." *American Economic Review* 88, no. 3 (1998): 559-586.
 
